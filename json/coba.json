@@ -1,0 +1,30 @@
+[
+  {
+  "nama": "Agung",
+  "umur": 27,
+  "nrp" : "031291",
+  "lulus": true,
+  "hobby": [
+      "coding",
+      "gaming"
+  ],
+  "pembimbing": {
+    "pembimbing1": "Doddy Somanjuntak",
+    "pembimbing2": "Alex Simanjuntak"
+    }
+  },
+  {
+  "nama": "Agung",
+  "umur": 27,
+  "nrp" : "031291",
+  "lulus": true,
+  "hobby": [
+      "coding",
+      "gaming"
+  ],
+  "pembimbing": {
+    "pembimbing1": "Doddy Somanjuntak",
+    "pembimbing2": "Alex Simanjuntak"
+    }
+  }
+]
